@@ -14,9 +14,6 @@ import sys
 import time
 import os
 
-# 发件人邮箱账号
-name1 = 'yongzheng@xinyinhe.com'
-password1 = 'zYhEng_8743'
 #
 # name2 = "xxxx@gmail.com"
 # password2 = "xxxx"
